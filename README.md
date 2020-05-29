@@ -24,6 +24,6 @@ Usage:
 
 ```
 plugins {
-    id("org.caffinitas.gradle.testsummary") version "0.1"
+    id("org.caffinitas.gradle.testsummary") version "0.1.1"
 }
 ```
